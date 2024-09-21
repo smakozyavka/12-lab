@@ -1,0 +1,50 @@
+Корнева Анастасия
+Коробейникова Яна
+Кузнецов Артем
+Мухамадиев Артем
+F:\Ившина Валерия>type vivo.txt
+Алексеев Тимур
+ Павлова Алена
+ Барченков Владислав
+Глеб
+Корнева Анастасия
+Ившина Валерия
+Коробейникова Яна
+Кузнецов Артем
+Мухамадиев Артем
+F:\Ившина Валерия>sort vivo.txt
+ Барченков Владислав
+ Павлова Алена
+Алексеев Тимур
+Глеб
+Ившина Валерия
+Корнева Анастасия
+Коробейникова Яна
+Кузнецов Артем
+Мухамадиев Артем
+F:\Ившина Валерия>doskey /history
+type vivo.txt
+ sort vivo.txt
+type vivosort/txt
+type vivo/txt
+type vivo.txt
+sort vivo.txt
+output vivosort.txt
+sort vivo.txt/output vivosort.txt
+sort vivo.txt /output vivosort.txt
+type vivosort.txt
+type vivo.txt
+sort vivo.txt
+doskey /history
+F:\Ившина Валерия>sort vivo.txt
+ Барченков Владислав
+ Павлова Алена
+Алексеев Тимур
+Глеб
+Ившина Валерия
+Корнева Анастасия
+Коробейникова Яна
+Кузнецов Артем
+Мухамадиев Артем
+F:\Ившина Валерия>
+doskey /history>vivo2.txt
